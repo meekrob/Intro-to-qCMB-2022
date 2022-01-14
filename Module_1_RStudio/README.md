@@ -25,3 +25,23 @@
    - Dataframes
    - Matrices
  - Import and export data
+
+
+# Wednesday, January 26, 2022
+
+
+## Intro
+
+
+## Learning objectives for today
+
+
+## Resources for today
+
+
+## Lessons for today
+
+ - functions - getting things done in R
+ - packages - expanding our toolkit
+ - plotting - the beauty of R
+
