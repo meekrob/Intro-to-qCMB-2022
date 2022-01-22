@@ -21,7 +21,14 @@
  * open-source
  * an interpreted language
 
-R is a programming language. It is 
+## R is an ecosystem
+ * the base package - R
+ * the extended environment - packages, RStudio, documentation
+ * the repository - CRAN (Comprehensive R Archive Network)
+ * the governance, support, & organization - R Core Development Team, R Foundation, R Consortium, RStudio
+ * the contribution community - developers
+ * the user community - us
+
 
 
 ## How did R come to be?
