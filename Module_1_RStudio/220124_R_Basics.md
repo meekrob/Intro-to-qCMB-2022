@@ -1,5 +1,7 @@
 # January 24, 2022
 
+
+
 ## Lessons for today
 
  - What is R?
