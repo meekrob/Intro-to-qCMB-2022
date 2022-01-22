@@ -13,9 +13,9 @@
 -----
 
 
-## What is R?
+# What is R?
 
-### R is a programming language
+## R is a programming language
  * designed for statistics, plotting, & data analysis
  * comprised of a base package that can be functionality expanded through add-on packages
  * open-source
@@ -24,7 +24,7 @@
 R is a programming language. It is 
 
 
-### How did R come to be?
+## How did R come to be?
 
   * 1976 - Bell Labs develops S, an open-source statistical programming language. The team was led by John Chambers.
   * 1991 - Ross Ihaka and Robert Gentleman at the University of Aukland in New Zealand embarks on a research venture to adapt S into R. 
@@ -41,5 +41,5 @@ R is a programming language. It is
 
 “R changed my opinion of humanity to some extent, to see how people are really willing to freely give of themselves and produce something larger than themselves without any thought of personal glory. There’s a lot of work with no recognition.” - Ross Ihaka
 
-### Why do we use R in computational biology?
+## Why do we use R in computational biology?
 
