@@ -18,3 +18,10 @@ R is a programming language
  * functionality can be expanded using add-on packages
  * free and open-source software
  * an interpreted language
+
+R is a programming language. It is 
+
+
+## How did R come to be?
+
+R was 
