@@ -55,3 +55,7 @@ Why use R in particular? What are its benefits for the life sciences?
   * Packages extend R for biology-specific tasks
   * We can benefit from a wide, supportive, and dedicated community of users and developers who have created stereotyped documentation
   * R is beautiful
+
+-----
+
+# What is RStudio?
