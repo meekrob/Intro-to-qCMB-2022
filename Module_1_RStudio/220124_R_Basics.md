@@ -10,4 +10,11 @@
    - Dataframes
    - Matrices
 
-## What is R
+## What is R?
+
+R is a programming language
+ * particularly good for data analysis, statistics, and plotting
+ * includes a base package
+ * functionality can be expanded using add-on packages
+ * free and open-source software
+ * an interpreted language
